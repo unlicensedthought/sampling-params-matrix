@@ -1,0 +1,9 @@
+[package]
+name = "sampling-params-matrix"
+version = "0.1.0"
+edition = "2021"
+description = "Per-provider matrix of what temperature does while a model is thinking, and a plan for whether to send it."
+license = "Apache-2.0"
+publish = false
+
+[dependencies]
